@@ -4,8 +4,8 @@
     "license": "MIT",
     "homepage": "http://laravelcollective.com",
     "support": {
-        "issues": "https://github.com/LaravelCollective/remote/issues",
-        "source": "https://github.com/LaravelCollective/remote"
+        "issues": "https://github.com/wjgilmore/remote/issues",
+        "source": "https://github.com/wjgilmore/remote"
     },
     "authors": [
         {
